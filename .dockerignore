@@ -1,0 +1,2 @@
+# don't copy *.dcm files, they'll be sent in with the code through a volume
+**/*.dcm

@@ -1,0 +1,2 @@
+*.dcm
+data_warehouse/clinical/*.txt

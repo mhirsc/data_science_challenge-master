@@ -1,0 +1,8 @@
+# don't copy cases or patients collections, they'll be sent in with the code through a volume
+**/*.bson
+**/*.pkl
+**/*.dcm
+**/*.pdf
+**/*.zip
+**/*.model
+environments/**/*.model

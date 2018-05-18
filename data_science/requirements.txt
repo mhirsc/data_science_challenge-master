@@ -1,0 +1,16 @@
+Cython==0.24.1
+decorator==4.0.10
+Flask==0.10.1
+Flask-RESTful==0.3.5
+lifelines==0.9.3.2
+matplotlib==1.5.1
+numpy==1.13.0
+pandas==0.19.1
+py==1.4.31
+pymongo==3.0.3
+pyparsing==2.1.1
+PyYAML==3.11
+requests==2.11.1
+scikit-learn==0.17.1
+scipy==0.17.0
+simplejson==3.10.0
